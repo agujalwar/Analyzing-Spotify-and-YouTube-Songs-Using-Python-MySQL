@@ -1,4 +1,3 @@
-![Project cover page](https://github.com/agujalwar/Analyzing-Spotify-and-YouTube-Songs-Using-Python-MySQL/assets/125154280/8df3f273-7ac6-41f5-9e15-129d68dd9290)
 
 <img src="https://github.com/agujalwar/Analyzing-Spotify-and-YouTube-Songs-Using-Python-MySQL/assets/125154280/8df3f273-7ac6-41f5-9e15-129d68dd9290" width="600" height="400">
 
